@@ -41,8 +41,9 @@ text-align: center;
 }*/
 p {
     position: absolute;
+    left: 5%;
     top: 300px;
-    left: 10px;
+/*    left: 10px;*/
     border-top-style: dotted;
     border-right-style: solid;
     border-bottom-style: dotted;
@@ -52,8 +53,7 @@ p {
    width: 350px;
 }
 p > input {
-    position: absolute;
-    left: 10px;
+    position: relative;
     top: 70px;
     background-color: white; /* Green */
     border: none;
