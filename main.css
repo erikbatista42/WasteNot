@@ -4,13 +4,13 @@ body {
 	font-family: avenir;
 	color: white;
 	background-color: rgb(29,185,84);
+	text-align: center;
 }
 .nav_bar {
 
 	text-align: center;
 	
 	height: 70px;
-	width: 380px;
 	border-bottom: 20px;
 	border-color: white;
 }
@@ -18,8 +18,8 @@ body {
 .span {
 	position: absolute;
 	left: 0px;
+	right: 0px;
 	height: 1px;
-	width: 400px;
 	color: white;
 	background-color: white;
 
